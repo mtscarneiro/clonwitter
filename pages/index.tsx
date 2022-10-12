@@ -11,7 +11,7 @@ const Home: NextPage = () => {
         }>
             <Head>
                 <title>Clonewitter</title>
-                <link rel="icon" href="/favicon.ico"/>
+                <link rel="icon" href="https://pnggrid.com/wp-content/uploads/2021/07/Twitter-Logo-Square.png"/>
             </Head>
 
             <main className={
